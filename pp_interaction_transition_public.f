@@ -108,7 +108,7 @@ c 1) choice of the parameters of the proton spectrum: J_Pr=Norm*(E_Pr(i_p)/E_0)*
 	alpha2=1.
 	E_0=1.
 	print*,'proton spectrum parameters: spectral index',alpha1,
-     -'cutoff energy [TeV]:',E_cut,'normalisation [1/(erg cm^3)]:',Norm
+     -'cutoff energy [TeV]:',E_cut,'normalisation [1/(TeV cm^3)]:',Norm
 
 
 c 2) binning the Energy of the primary protons in TeV
