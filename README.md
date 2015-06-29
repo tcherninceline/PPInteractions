@@ -11,6 +11,7 @@ Before you run the code, go into the section "PARAMETERS TIO FIX", and:
 
 To run the code:
 type: 1) gfortran -g -fimplicit-none pp_interaction_transition_public.f
+     
       2) ./a.out 
 
 This code allows you to obtain secondary particle spectra for any value of alpha1, over the entire enegy range delimited by Emin and Emax.	The code's running time may be a bit long (~30 minutes) because all the subroutines are called twice: once to compute the high energy part of the particle spectra and a second time, to adjust the low energy part of the spectra to the high energy one.
