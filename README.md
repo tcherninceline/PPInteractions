@@ -4,8 +4,10 @@ download and install gfortran: https://gcc.gnu.org/wiki/GFortranBinaries
 
 Running Instructions : 
 Before you run the code, go into the section "PARAMETERS TO FIX", and:
-- choose the parameters of the primary proton spectrum. These parameters describe the proton spectrum, as:                 
-    * J_Pr=Norm*(E_Pr(i_p)/E_0)**(-alpha1)*exp(-(E_Pr(i_p)/E_cut)**(alpha2)) (following the notations of Kelner et al (2006), Eq     (72).) 	 alpha1, E_cut (in TeV), Norm (in 1/(TeVcm^3)), alpha2,	E_0 (in TeV)
+- choose the parameters of the primary proton spectrum:
+    *alpha1, E_cut (in TeV), Norm (in 1/(TeVcm^3)), alpha2,	E_0 (in TeV).
+  These parameters describe the proton spectrum, as:                 
+    * J_Pr=Norm*(E_Pr(i_p)/E_0)**(-alpha1)*exp(-(E_Pr(i_p)/E_cut)**(alpha2)) (following the notations of Kelner et al (2006), Eq     (72).) 	 
 - choose the maximal and minimal energy of the primary protons in TeV: E_Pr_min, E_Pr_max;  
 - choose the density of the target proton in cm^-3;
 - choose the maximal and minimal energy of the secondary particle in TeV: Emin, Emax 
