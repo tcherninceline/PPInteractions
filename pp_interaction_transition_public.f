@@ -55,7 +55,7 @@ ccccccccccccccccccccccccccccccccccccccccccccc
 
 c following the article: Kelner, Aharonian, Bugayov (2005):
 
-c In Kelner et al (2006), the authors parametrized the secondary particle spectra of the secondary particle having an energy larger than 0.1TeV. The spectra of particles of energy lower than 0.1 TeV is obtained as the result of a superposition of delta functions. The normalization of the low energy end of the spectra is adjusted to the high energy part of the spectrum. In Kelner et al (2006), the normalization is given only for 3 values of the primary proton spectra indices (2, 2.5, 3). 
+c In Kelner et al (2006), the authors parametrized the secondary particle spectra of the secondary particle having an energy larger than 0.1TeV. The spectra of particles of energy lower than 0.1 TeV is obtained as the result of a superposition of delta functions. The normalization of the low energy end of the spectra is adjusted to the high energy part of the spectrum. In Kelner et al (2006), the normalization is given only for 3 values of the primary proton spectral indices (2, 2.5, 3). 
 
 c In proton-proton interactions, both negatively and positively charged pions are produced in about the same amount, therefore, in Kelner et al (2006), the parametrizations of the secondary particles and of their antiparticles are the same. 
 
